@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009343911968",
+    "firebase_url": "https://log-and-register-cf463.firebaseio.com",
+    "project_id": "log-and-register-cf463",
+    "storage_bucket": "log-and-register-cf463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009343911968:android:b7c9e60198028a716e0445",
+        "android_client_info": {
+          "package_name": "com.example.logandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009343911968-e9v85tesikb5k7fsdcvrjpoldm1our0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzwnCiHbhMKFM1aJKKp0LPEoy-NCF1RVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009343911968-e9v85tesikb5k7fsdcvrjpoldm1our0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
